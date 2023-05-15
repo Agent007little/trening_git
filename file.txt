@@ -2,3 +2,6 @@ Git test
 Hello git
 
 new string 
+
+
+finaly string
