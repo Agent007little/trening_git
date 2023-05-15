@@ -1,0 +1,4 @@
+Git test
+Hello git
+
+new string
